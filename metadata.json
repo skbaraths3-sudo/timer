@@ -1,0 +1,6 @@
+{
+  "name": "Timer",
+  "description": "A precision countdown timer with completion alarm and dedicated Stop and Repeat cycle actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
